@@ -1,0 +1,8 @@
+- input.mat
+--- Input matrix for neural network (M <50x400>)
+
+- target.mat
+--- Target matrix for neural network (T <1x400>)
+
+- network.mat
+--- Neural Network
